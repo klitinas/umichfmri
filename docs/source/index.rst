@@ -1,7 +1,7 @@
 Welcome to the fMRI Laboratory at the University of Michigan!
 =============================================================
 
-.. figure:: Images/fMRILab_Banner.png
+.. figure:: images/fMRILab_Banner.png
 
 .. note::
 
