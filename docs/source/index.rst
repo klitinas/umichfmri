@@ -23,3 +23,9 @@ Contents
     :caption: fMRI Lab Faculty
 
       Faculty/AndrewJahn
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Scanner Information
+
+      Scanner/Scanner_Overview
