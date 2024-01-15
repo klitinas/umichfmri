@@ -13,6 +13,8 @@ The Laboratory’s mission is to maintain an environment that will enhance the e
 
 This ReadTheDocs page is an updated version of the lab's previous webpage, and we will be adding new sections to it over the coming months. Make sure to check back for more updates!
 
+You can find more information about our faculty and the scanner.
+
 
 
 Contents
