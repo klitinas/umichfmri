@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx_rtd_theme',
 ]
 
 intersphinx_mapping = {
@@ -25,7 +26,11 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
+# Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
+
+# The suffix of source filenames.
+source_suffix = '.rst'
 
 # -- Options for HTML output
 
