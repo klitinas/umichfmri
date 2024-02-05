@@ -39,6 +39,13 @@ html_theme = 'sphinx_rtd_theme'
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
+# List of patterns, relative to source directory, that match files and
+# directories to ignore when looking for source files.
+exclude_patterns = ['_build']
+
+# Output file base name for HTML help builder.
+htmlhelp_basename = 'ReadtheDocsTemplatedoc'
+
 #####################################################
 #Other options added here by Andrew Jahn, 02.05.2024#
 #####################################################
