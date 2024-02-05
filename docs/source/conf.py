@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'fMRI Laboratory'
+copyright = '2024, fMRI Laboratory'
+author = 'The fMRI Laboratory, University of Michigan'
 
 release = '0.1'
 version = '0.1.0'
@@ -33,3 +33,13 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+#####################################################
+#Other options added here by Andrew Jahn, 02.05.2024#
+#####################################################
+
+# The master toctree document.
+master_doc = 'index'
+
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = 'sphinx'
